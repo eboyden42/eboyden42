@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Eli
+# Hi there 👋 I'm Eli
 
 - I'm a student at [UVA](https://www.virginia.edu/) studying Computer Science (B.S.) and Mathematics (B.A.) with a Probability and Statistics concentration (GPA: 3.95, Class of 2027).
 - Want a professional summary? Check out my <a href="https://github.com/eboyden42/eboyden42/blob/main/boyden_resume2.pdf">resume</a>.
