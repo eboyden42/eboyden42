@@ -39,5 +39,3 @@
 - 📫 Email: eliboyden2027@outlook.com
 - 🤝 LinkedIn: https://www.linkedin.com/in/eli-boyden-88067325b/
 
-
-> [!warning] Hello
