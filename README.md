@@ -32,7 +32,7 @@
 
 ## Currently Learning
 
-- I'm currently getting into in Cloud Computing and AWS with [Datacamp](https://app.datacamp.com/)
+- I'm getting into in Cloud Computing and AWS with [Datacamp](https://app.datacamp.com/)
 
 ## Contact me!
 
