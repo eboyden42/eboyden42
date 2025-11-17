@@ -6,8 +6,7 @@
 ## Highlighed Projects
 - <a href="https://github.com/eboyden42/ta-track-react">TAGuide</a>: a full-stack webapp for creating and tracking scraping jobs for TA grading data.
 - <a href="https://github.com/eboyden42/game-ai-framework">Create Your Own Game AI</a>: a Java application for programmers interested in two-player zero-sum game AI algorithms.
-- <a href="https://github.com/eboyden42/cf_ai_extension">ToS;DR Chrome Extension</a>: A Terms of Service scanning chrome extension that uses AI to find suspicious clauses and give the agreement a rating.
-- <a href="https://github.com/eboyden42/mtg-commander-ai">MTG Commander Deckbuilder</a>:  a full stack app running MongoDB vector index queries on Magic The Gathering deck data.
+- <a href="https://github.com/eboyden42/cf_ai_extension">ToS;DR Chrome Extension</a>: a Terms of Service scanning chrome extension that uses AI to find suspicious clauses and give the agreement a rating.
 
 ## Skills
 
