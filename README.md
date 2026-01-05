@@ -12,7 +12,7 @@
 
 ### Programming Languages:
 
- <img align="center" src="https://skillicons.dev/icons?i=java,python,c,javascript,typescript,html,css,scss&perline=14" />
+ <img align="center" src="https://skillicons.dev/icons?i=java,python,go,c,javascript,typescript,html,css,scss&perline=14" />
 
 ### Databases
 
@@ -20,20 +20,19 @@
 
 ### Frameworks
 
-<img align="center" src="https://skillicons.dev/icons?i=react,nodejs,express,flask,jest,selenium,gradle&perline=14" />
+<img align="center" src="https://skillicons.dev/icons?i=react,nodejs,express,flask,jest,selenium,gradle,django&perline=14" />
 
 ### Platforms
 
 <img align="center" src="https://skillicons.dev/icons?i=git,github,cloudflare,figma,obsidian&perline=14" />
 
 ## Currently Working
-- During the 2025 fall semester I'm working with the <a href="https://www.linkedin.com/company/city-of-charlottesville/posts/?feedView=all">City of Charlottesville</a> as a Software Engineer Intern.
-
-- I recently finished my work as a full-stack software engineer intern for <a href="https://www.linkedin.com/company/ystemandchessinc/posts/?feedView=all">YSTEM</a> a non-profit providing chess and stem education to underprivileged children. Want to get involved? Contact [Devin](https://www.linkedin.com/in/devin-nakano/) on LinkedIn. You can mentor, sign up a student or possibly join the development team!
+- During the 2025 fall semester I worked with the <a href="https://www.linkedin.com/company/city-of-charlottesville/posts/?feedView=all">City of Charlottesville</a> as a Software Engineer Intern.
+- During summer 2025 I worked as a Full-Stack Software Engineer Intern for <a href="https://www.linkedin.com/company/ystemandchessinc/posts/?feedView=all">YSTEM</a> a non-profit providing chess and stem education to underprivileged children. Want to get involved? Contact [Devin](https://www.linkedin.com/in/devin-nakano/) on LinkedIn. You can mentor, sign up a student or possibly join the development team!
 
 ## Currently Learning
-
-- I'm getting into in Cloud Computing and AWS with [Datacamp](https://app.datacamp.com/)
+- Diving deeper into Go with [Go by Example](https://gobyexample.com/) and the [Zero to Mastery Go Course](https://zerotomastery.io/courses/learn-golang/)
+- Reading more about my favorite area of history, [Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age) Mesopotamia, with [A History of the Ancient Near East](https://www.amazon.com/History-Ancient-Near-East-3000/dp/1394210221/) by Marc Van De Mieroop
 
 ## Certifications
 - AWS CLF-02 Certified Cloud Practitoner | <a href="https://www.credly.com/badges/15b31abd-b5ca-4b2e-8379-e46c1b6fad2c/public_url">Certification</a>
