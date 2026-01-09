@@ -27,6 +27,7 @@
 <img align="center" src="https://skillicons.dev/icons?i=git,github,cloudflare,figma,obsidian&perline=14" />
 
 ## Currently Working
+- In summer 2026 I'll be joining <a href="https://www.sas.com/en_us/home.html">SAS</a> as a Software Developer Intern on the Migrations Team!
 - During the 2025 fall semester I worked with the <a href="https://www.linkedin.com/company/city-of-charlottesville/posts/?feedView=all">City of Charlottesville</a> as a Software Engineer Intern.
 - During summer 2025 I worked as a Full-Stack Software Engineer Intern for <a href="https://www.linkedin.com/company/ystemandchessinc/posts/?feedView=all">YSTEM</a> a non-profit providing chess and stem education to underprivileged children. Want to get involved? Contact [Devin](https://www.linkedin.com/in/devin-nakano/) on LinkedIn. You can mentor, sign up a student or possibly join the development team!
 
