@@ -24,7 +24,7 @@
 
 ### Platforms
 
-<img align="center" src="https://skillicons.dev/icons?i=git,github,cloudflare,figma,obsidian,aws&perline=14" />
+<img align="center" src="https://skillicons.dev/icons?i=git,github,cloudflare,obsidian,aws&perline=14" />
 
 ## Currently Working
 - In summer 2026 I'll be joining <a href="https://www.sas.com/en_us/home.html">SAS</a> as a Software Developer Intern on the Migrations Team!
