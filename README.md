@@ -32,7 +32,7 @@
 - During summer 2025 I worked as a Full-Stack Software Engineer Intern for <a href="https://www.linkedin.com/company/ystemandchessinc/posts/?feedView=all">YSTEM</a> a non-profit providing chess and stem education to underprivileged children. Want to get involved? Contact [Devin](https://www.linkedin.com/in/devin-nakano/) on LinkedIn. You can mentor, sign up a student or possibly join the development team!
 
 ## Currently Learning
-- Diving deeper into Go with [Go by Example](https://gobyexample.com/) and the [Zero to Mastery Go Course](https://zerotomastery.io/courses/learn-golang/)
+- Learning about quantum computing and the cool mathematics behind it with [Ryan O'Donnell's](https://www.cs.cmu.edu/~odonnell/) fantastic free course: [Quantum Computation and Quantum Information](https://www.cs.cmu.edu/~odonnell/quantum18/)
 - Reading more about my favorite area of history, [Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age) Mesopotamia, with [A History of the Ancient Near East](https://www.amazon.com/History-Ancient-Near-East-3000/dp/1394210221/) by Marc Van De Mieroop
 
 ## Certifications
